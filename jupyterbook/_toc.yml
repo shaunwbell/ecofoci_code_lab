@@ -20,10 +20,10 @@ parts:
     chapters:
       - glob: content/Video_Demo_Markdown/*
 
-  - caption: Other Resources
+  - caption: Other Resources - Outside of EcoFOCI
     chapters:
-      - file: content/ioos_installation_conda.md
-        title: Installing the IOOS Conda Environment
+      - file: https://ioos.github.io/ioos_code_lab/content/ioos_installation_conda
+        title: Installing the IOOS Conda Environment - Great Steps for EcoFOCI too
       - url: https://help.aodn.org.au/aodn-data-tools/user-code-library/
         title: Opening netCDF files - hints from AODN
       - url: http://unidata.github.io/notebook-gallery/
