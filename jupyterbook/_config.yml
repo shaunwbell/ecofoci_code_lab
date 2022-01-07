@@ -45,11 +45,9 @@ html:
   use_issues_button: true # Whether to add an "open an issue" button
   extra_navbar: <a href="https://www.ecofoci.noaa.gov">EcoFOCI</a> # Will be displayed underneath the left navbar.
   extra_footer: <a href=https://www.ecofoci.noaa.gov> ecofoci.noaa.gov </a> &nbsp
-    <a href="mailto:pmel.ecofoci@noaa.gov">Contact Us</a> <br>
-    Ecosystems-Fisheries/Oceanography Coordinated Investigations <br>
-    7200 Sandpoint Way NE <br>
-    Bldg 3 <br>
-    Seattle, WA 98270
+     <a href="mailto:pmel.ecofoci@noaa.gov">Contact Us</a> <br>
+     Ecosystems-Fisheries/Oceanography Coordinated Investigations <br>
+     7200 Sandpoint Way NE <br>
   google_analytics_id: ""
   home_page_in_navbar: false # Whether to include your home page in the left Navigation Bar
   baseurl: "" # The base URL where your book will be hosted. Used for creating image previews and social links. e.g.: https://mypage.com/mybook/
