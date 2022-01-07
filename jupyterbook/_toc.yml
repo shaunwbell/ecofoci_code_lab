@@ -1,6 +1,6 @@
 format: jb-book
 root: content/intro.md
-title: The IOOS Data Demo Center
+title: The EcoFOCI Data Demo Center
 parts:
   - caption: Code Gallery
     chapters:
@@ -16,14 +16,12 @@ parts:
         sections:
           - glob: content/code_gallery/data_management_notebooks/*
 
-  - caption: Video Tutorials
+  - caption: Other Resources - Outside of EcoFOCI
     chapters:
-      - glob: content/Video_Demo_Markdown/*
-
-  - caption: Other Resources
-    chapters:
-      - file: content/ioos_installation_conda.md
-        title: Installing the IOOS Conda Environment
+      - file: https://ioos.github.io/ioos_code_lab
+        title: IOOS Examples
+      - file: https://ioos.github.io/ioos_code_lab/content/ioos_installation_conda
+        title: Installing the IOOS Conda Environment - Great Steps for EcoFOCI too
       - url: https://help.aodn.org.au/aodn-data-tools/user-code-library/
         title: Opening netCDF files - hints from AODN
       - url: http://unidata.github.io/notebook-gallery/
