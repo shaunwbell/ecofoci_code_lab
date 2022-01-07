@@ -5,7 +5,7 @@ utilize the many EcoFOCI Data sets and resources available. This site is geared 
 
 See the rendered version at https://shaunwbell.github.io/ecofoci_code_lab
 
-To suggest a notebook or ask questions please open an issue at: https://github.com/ioos/ioos_code_lab/issues
+To suggest a notebook or ask questions please open an issue at: https://github.com/shaunwbell/ecofoci_code_lab/issues
 
 This is a fork of the IOOS CodeLab (thanks to that project for the initial codebase) and the IOOS project can be obtained at: https://github.com/ioos/ioos_code_lab - the citation link included in this repo still refers to the original project.
 
