@@ -11,10 +11,10 @@ This is a fork of the IOOS CodeLab (thanks to that project for the initial codeb
 
 ## Run on Pangeo Binder - ??? disabld for now
 
-## Citation
 
-ioos_code_lab initial citation:  
-[![DOI](https://zenodo.org/badge/399546690.svg)](https://zenodo.org/badge/latestdoi/399546690)
+## References:
+
+Credit to: Fernandes, F., Bosch Webster, J., Signell, R., Biddle, M., Wilcox, K., & Wengren, M. (2021). IOOS Code Lab (Version v2.0.0) [Computer software] [![DOI](https://zenodo.org/badge/399546690.svg)](https://zenodo.org/badge/latestdoi/399546690)
 
 ---
 
@@ -86,3 +86,9 @@ To entirely remove the folders in the `_build/` directory:
 ```
 jupyter-book clean jupyterbook/ --all
 ```
+
+---
+
+Legal Disclaimer
+
+This repository is a scientific product and is not official communication of the National Oceanic and Atmospheric Administration (NOAA), or the United States Department of Commerce (DOC). All NOAA GitHub project code is provided on an 'as is' basis and the user assumes responsibility for its use. Any claims against the DOC or DOC bureaus stemming from the use of this GitHub project will be governed by all applicable Federal law. Any reference to specific commercial products, processes, or services by service mark, trademark, manufacturer, or otherwise, does not constitute or imply their endorsement, recommendation, or favoring by the DOC. The DOC seal and logo, or the seal and logo of a DOC bureau, shall not be used in any manner to imply endorsement of any commercial product or activity by the DOC or the United States Government.
