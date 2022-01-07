@@ -1,9 +1,11 @@
-# IOOS CodeLab
+# EcoFOCI CodeLab
 
-The [IOOS CodeLab](https://ioos.github.io/ioos_code_lab) is a collection of tutorials and examples of how to access and
-utilize the many IOOS technologies and data sources available. This site is geared towards scientists and environmental
+The [EcoFOCI CodeLab](https://ioos.github.io/ioos_code_lab) is a collection of tutorials and examples of how to access and
+utilize the many EcoFOCI technologies and data sources available. This site is geared towards scientists and environmental
 managers interested in “diving deep” into the numbers and creating original plots and data analysis. Most notebook
-examples are written in Python, however, we also have a growing number of notebooks written in Matlab, and R.
+examples are written in Python.
+
+This is a fork of the IOOS CodeLab (thanks to that project for the initial codebase) and the IOOS project can be obtained at: https://github.com/ioos/ioos_code_lab
 
 See the rendered version at https://ioos.github.io/ioos_code_lab
 
