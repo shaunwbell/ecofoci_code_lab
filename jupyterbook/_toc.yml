@@ -16,6 +16,10 @@ parts:
         sections:
           - glob: content/code_gallery/data_management_notebooks/*
 
+      - file: content/code_gallery/ecofocipy.md
+        sections:
+          - glob: content/code_gallery/ecofocipy_notebooks/*
+
   - caption: Other Resources - Outside of EcoFOCI
     chapters:
       - url: https://ioos.github.io/ioos_code_lab
