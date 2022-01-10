@@ -1,19 +1,19 @@
 # Contribution guidance
 
-This page documents the procedures for:
+Modelled/Copied after the IOOS methodology this page documents the procedures for:
 
-1. [Requesting new notebooks](#requesting-new-notebooks) to be added to the [IOOS CodeLab](https://ioos.github.io/ioos_code_lab);
+1. [Requesting new notebooks](#requesting-new-notebooks) to be added to the [EcoFOCI CodeLab](https://shaunwbell.github.io/ecofoci_code_lab);
 1. [Building](#building-new-notebooks) new notebooks;
 1. [Reviewing](#reviewing) submitted notebooks;
 1. [Merging](#merging) approved notebooks for inclusion into the Code Gallery;
 1. [Announcing](#announcing) the new notebooks to the community; and
 1. [Logging any bugs](#logging-bugs) that are found in the Code Gallery.
-1. Managing the IOOS Data Demo Center [Project Board](#managing-ioos-data-demo-center-project-board).
+1. Managing the IOOS Data Demo Center [Project Board](#managing-ecofoci-data-demo-center-project-board).
 1. [Local management](#local-management-of-notebooks_demo) of the notebooks_demo repository.
 
 ## Requesting new notebooks
 
-- New notebooks should be requested by adding a [ticket](https://github.com/ioos/ioos_code_lab/issues/new) to this GitHub repository. The ticket should contain the following information:
+- New notebooks should be requested by adding a [ticket](https://github.com/shaunwbell/ecofoci_code_lab/issues/new) to this GitHub repository. The ticket should contain the following information:
 
 ```
 - [ ] What is language(s) for used in the example?
@@ -27,19 +27,19 @@ Please provide a detailed description of the suggested example below:
 
 When the ticket gets created, make the following additions to the ticket:
 
-- Add the label [Notebook idea](https://github.com/ioos/ioos_code_lab/labels/Notebook%20idea).
-- Add the ticket to the [IOOS CodeLab](https://github.com/orgs/ioos/projects/1#card-49928448) project.
-- Put the card in the column [backlog](https://github.com/orgs/ioos/projects/1#column-5010196).
+- Add the label [Notebook idea](https://github.com/shaunwbell/ecofoci_code_lab/labels/Notebook%20idea).
+- Add the ticket to the [EcoFOCI CodeLab](https://github.com/orgs/shaunwbell/projects/1#card-49928448) project.
+- Put the card in the column [backlog](https://github.com/orgs/shaunwbell/projects/1#column-5010196).
 
 ## Building new notebooks
 
 If you would like to work on a notebook that has been proposed, follow these steps:
 
-1. [Create a fork](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo) of the [notebooks_demos](https://github.com/ioos/ioos_code_lab) repository.
+1. [Create a fork](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo) of the [notebooks_demos](https://github.com/shaunwbell/ecofoci_code_lab) repository.
 1. On your fork, [create a branch](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-and-deleting-branches-within-your-repository) where you will start working on the new notebook.
    1. Give the branch a name that conveys what the new notebook is. For example, a notebook on converting data into Darwin Core could have a branch name of `data2dwc`. This makes it easier to know which branch is dedicated to which new notebook.
 1. On the new branch in your fork, start creating the new notebook.
-   1. Notebooks are kept in the [jupyterbook/content/code_gallery](https://github.com/ioos/ioos_code_lab/tree/main/jupyterbook/content/code_gallery) directory of this repository.
+   1. Notebooks are kept in the [jupyterbook/content/code_gallery](https://github.com/shaunwbell/ecofoci_code_lab/tree/main/jupyterbook/content/code_gallery) directory of this repository.
       1. There are three directories where notebooks can be placed:
          1. `data_access_notebooks` -
          2. `data_analysis_and_visualization_notebooks` -
@@ -79,8 +79,8 @@ For Admins:
 
 1. If the notebook looks good, the reviewer will [merge the PR](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/merging-a-pull-request).
 1. This kicks off a series of [GitHub Actions](https://github.com/features/actions).
-   1. You can see the workflows at https://github.com/ioos/notebooks_demos/actions
-1. Once the workflows are complete, check the [IOOS CodeLab](https://ioos.github.io/ioos_code_lab/) for the new notebook.
+   1. You can see the workflows at https://github.com/shaunwbell/notebooks_demos/actions
+1. Once the workflows are complete, check the [EcoFOCI CodeLab](https://shaunwbell.github.io/ecofoci_code_lab/) for the new notebook.
 1. Review the notebook for any display issues when presented on the web. Check for the extra cell at the bottom of the notebook.
    1. If there are issues, submit a new PR to resolve the issues.
 
@@ -88,25 +88,20 @@ For Admins:
 
 When new notebooks, or significant changes to the site, are merged and pushed out, follow this procedure:
 
-1. **Admin** Move the appropriate Project card to [Announcement](https://github.com/orgs/ioos/projects/1#column-13186308).
+1. **Admin** Move the appropriate Project card to [Announcement](https://github.com/orgs/shaunwbell/projects/1#column-13186308).
 1. Draft announcement text.
    1. Include a brief summary of the new release.
    1. Include any relevant links to the demo center.
 1. Distribute text through the following channels.
-   1. IOOS bi-weekly
-   1. EOTO
-   1. ioos_tech mail list
-   1. dmac mail list
-   1. Twitter/FB.
-   1. Appropriate slack channels
+   1. ecofoci mailing list
 
 ## Logging bugs or changes
 
 1. Bugs should be reported through tickets in this repository. Be sure to include the notebook where the problem is found. Include a clear description of the issue or change that is needed.
 
-## Managing IOOS Data Demo Center Project Board
+## Managing EcoFOCI Data Demo Center Project Board
 
-The [project board](https://github.com/orgs/ioos/projects/1) captures the current progress on notebooks and adjustments to the IOOS Data Demo Center.
+The [project board](https://github.com/orgs/shaunwbell/projects/1) captures the current progress on notebooks and adjustments to the EcoFOCI Data Demo Center.
 
 | **Column name** | **Purpose**                                                         |
 | --------------- | ------------------------------------------------------------------- |
@@ -127,7 +122,7 @@ Clone your fork of the notebooks_demo repository to a known location on your mac
 
 Set the upstream branch to the ioos/notebooks_demos repository:
 
-`$ git remote add upstream https://github.com/ioos/ioos_code_lab.git`
+`$ git remote add upstream https://github.com/shaunwbell/ecofoci_code_lab.git`
 
 Keep your local main up-to-date with the upstream main ([walkthough](https://stefanbauer.me/articles/how-to-keep-your-git-fork-up-to-date)):
 
