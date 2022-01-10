@@ -18,7 +18,7 @@ parts:
 
   - caption: Other Resources - Outside of EcoFOCI
     chapters:
-      - file: https://ioos.github.io/ioos_code_lab
+      - url: https://ioos.github.io/ioos_code_lab
         title: IOOS Examples
       - file: https://ioos.github.io/ioos_code_lab/content/ioos_installation_conda
         title: Installing the IOOS Conda Environment - Great Steps for EcoFOCI too
