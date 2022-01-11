@@ -20,6 +20,12 @@ parts:
         sections:
           - glob: content/code_gallery/ecofocipy_notebooks/*
 
+  - caption: Other Projects
+    chapters:
+      - file: content/code_gallery/MetaData_Rediscovery.md
+        sections:
+          - glob: content/code_gallery/MetaData_Rediscovery_notebooks/*
+
   - caption: Other Resources - Outside of EcoFOCI
     chapters:
       - url: https://ioos.github.io/ioos_code_lab
