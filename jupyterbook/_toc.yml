@@ -20,6 +20,10 @@ parts:
         sections:
           - glob: content/code_gallery/ecofocipy_notebooks/*
 
+      - file: content/code_gallery/ecofoci_fielddata_history.md
+        sections:
+          - glob: content/code_gallery/ecofoci_fielddata_history/*
+
       - file: content/code_gallery/oculus_glider.md
         sections:
           - glob: content/code_gallery/oculus_glider_notebooks/*
