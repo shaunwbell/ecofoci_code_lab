@@ -1,6 +1,6 @@
 format: jb-book
 root: content/intro.md
-title: The EcoFOCI Data Demo Center
+title: The EcoFOCI Data and Demo Center
 parts:
   - caption: Code Gallery
     chapters:
@@ -23,6 +23,12 @@ parts:
       - file: content/code_gallery/oculus_glider.md
         sections:
           - glob: content/code_gallery/oculus_glider_notebooks/*
+
+  - caption: Field Data History
+    chapters:
+      - file: content/code_gallery/ecofoci_fielddata_history.md
+        sections:
+          - glob: content/code_gallery/ecofoci_fielddata_history/*
 
   - caption: Other Projects
     chapters:
