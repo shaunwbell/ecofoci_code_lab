@@ -31,17 +31,17 @@ parts:
           - file: content/code_gallery/ecofoci_fielddata_history/2013/13bs5a/index
             sections:
             - file: content/code_gallery/ecofoci_fielddata_history/2013/13bs5a/EcoFOCIpy_1d_filter_13bs5a.ipynb
-            - title: EcoFOCIpy_1d_filter_13bs5a
+              title: EcoFOCIpy_1d_filter_13bs5a
       - file: content/code_gallery/ecofoci_fielddata_history/2014/index
         sections:
           - file: content/code_gallery/ecofoci_fielddata_history/2014/14bs2c/index
             sections:
             - file: content/code_gallery/ecofoci_fielddata_history/2014/14bs2c/EcoFOCIpy_1d_filter_14bs2c.ipynb
-            - title: EcoFOCIpy_1d_filter_14bs2c
+              title: EcoFOCIpy_1d_filter_14bs2c
           - file: content/code_gallery/ecofoci_fielddata_history/2014/14bs5a/index
             sections:
             - file: content/code_gallery/ecofoci_fielddata_history/2014/14bs5a/EcoFOCIpy_1d_filter_14bs5a.ipynb
-            - title: EcoFOCIpy_1d_filter_14bs5a
+              title: EcoFOCIpy_1d_filter_14bs5a
 
   - caption: Other Projects
     chapters:
