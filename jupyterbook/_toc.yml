@@ -26,19 +26,19 @@ parts:
 
   - caption: Field Data History
     chapters:
-      - file: content/code_gallery/ecofoci_fielddata_history/2013/index
+      - file: content/code_gallery/ecofoci_fielddata_history/2013/index.md
         sections:
-          - file: content/code_gallery/ecofoci_fielddata_history/2013/13bs5a/index
+          - file: content/code_gallery/ecofoci_fielddata_history/2013/13bs5a/index.md
             sections:
             - file: content/code_gallery/ecofoci_fielddata_history/2013/13bs5a/EcoFOCIpy_1d_filter_13bs5a.ipynb
               title: EcoFOCIpy_1d_filter_13bs5a
-      - file: content/code_gallery/ecofoci_fielddata_history/2014/index
+      - file: content/code_gallery/ecofoci_fielddata_history/2014/index.md
         sections:
-          - file: content/code_gallery/ecofoci_fielddata_history/2014/14bs2c/index
+          - file: content/code_gallery/ecofoci_fielddata_history/2014/14bs2c/index.md
             sections:
             - file: content/code_gallery/ecofoci_fielddata_history/2014/14bs2c/EcoFOCIpy_1d_filter_14bs2c.ipynb
               title: EcoFOCIpy_1d_filter_14bs2c
-          - file: content/code_gallery/ecofoci_fielddata_history/2014/14bs5a/index
+          - file: content/code_gallery/ecofoci_fielddata_history/2014/14bs5a/index.md
             sections:
             - file: content/code_gallery/ecofoci_fielddata_history/2014/14bs5a/EcoFOCIpy_1d_filter_14bs5a.ipynb
               title: EcoFOCIpy_1d_filter_14bs5a
