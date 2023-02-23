@@ -32,7 +32,8 @@ parts:
     chapters:
       - file: content/code_gallery/ecofoci_fielddata_history.md
         sections:
-          - glob: content/code_gallery/ecofoci_fielddata_history/*
+          - glob: content/code_gallery/ecofoci_fielddata_history/2013/*
+          - glob: content/code_gallery/ecofoci_fielddata_history/2014/*
 
   - caption: Other Projects
     chapters:
