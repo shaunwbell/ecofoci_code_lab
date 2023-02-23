@@ -30,9 +30,11 @@ parts:
 
   - caption: Field Data History
     chapters:
-      - file: content/code_gallery/ecofoci_fielddata_history.md
+      - file: content/code_gallery/ecofoci_fielddata_history_2013.md
         sections:
           - glob: content/code_gallery/ecofoci_fielddata_history/2013/*
+      - file: content/code_gallery/ecofoci_fielddata_history_2014.md
+        sections:
           - glob: content/code_gallery/ecofoci_fielddata_history/2014/*
 
   - caption: Other Projects
