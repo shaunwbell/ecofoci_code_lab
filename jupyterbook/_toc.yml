@@ -42,7 +42,285 @@ parts:
             sections:
             - file: content/code_gallery/ecofoci_fielddata_history/2014/14bs5a/EcoFOCIpy_1d_filter_14bs5a.ipynb
               title: EcoFOCIpy_1d_filter_14bs5a
-
+      - file: content/code_gallery/ecofoci_fielddata_history/2019/index.md
+        sections:
+          - file: content/code_gallery/ecofoci_fielddata_history/2019/19aubs11/index.md
+            sections:
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19aubs11/EcoFOCIpy_19aubs11_s56_04737.ipynb
+              title: EcoFOCIpy_19aubs11_s56_04737
+          - file: content/code_gallery/ecofoci_fielddata_history/2019/19bs2c/index.md
+            sections:
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19bs2c/19BS2C_Summary.ipynb
+              title: 19BS2C_Summary
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19bs2c/EcoFOCIpy_19bs2c_flsb_1838.ipynb
+              title: EcoFOCIpy_19bs2c_flsb_1838
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19bs2c/EcoFOCIpy_19bs2c_flsb_2693.ipynb
+              title: EcoFOCIpy_19bs2c_flsb_2693
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19bs2c/EcoFOCIpy_19bs2c_flsb_3048.ipynb
+              title: EcoFOCIpy_19bs2c_flsb_3048
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19bs2c/EcoFOCIpy_19bs2c_s37_1807.ipynb
+              title: EcoFOCIpy_19bs2c_s37_1807
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19bs2c/EcoFOCIpy_19bs2c_s37_2328.ipynb
+              title: EcoFOCIpy_19bs2c_s37_2328
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19bs2c/EcoFOCIpy_19bs2c_s37_3762.ipynb
+              title: EcoFOCIpy_19bs2c_s37_3762
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19bs2c/EcoFOCIpy_19bs2c_s39_0809.ipynb
+              title: EcoFOCIpy_19bs2c_s39_0809
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19bs2c/EcoFOCIpy_19bs2c_s39_1574.ipynb
+              title: EcoFOCIpy_19bs2c_s39_1574
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19bs2c/EcoFOCIpy_19bs2c_s39_1773.ipynb
+              title: EcoFOCIpy_19bs2c_s39_1773
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19bs2c/EcoFOCIpy_19bs2c_s39_1777.ipynb
+              title: EcoFOCIpy_19bs2c_s39_1777
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19bs2c/EcoFOCIpy_19bs2c_s39_3759.ipynb
+              title: EcoFOCIpy_19bs2c_s39_3759
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19bs2c/EcoFOCIpy_19bs2c_s39_3760.ipynb
+              title: EcoFOCIpy_19bs2c_s39_3760
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19bs2c/EcoFOCIpy_19bs2c_s56_02453.ipynb
+              title: EcoFOCIpy_19bs2c_s56_02453
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19bs2c/EcoFOCIpy_19bs2c_s56_04739.ipynb
+              title: EcoFOCIpy_19bs2c_s56_04739
+          - file: content/code_gallery/ecofoci_fielddata_history/2019/19bs5a/index.md
+            sections:
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19bs5a/19BS5A_Summary.ipynb
+              title: 19BS5A_Summary
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19bs5a/EcoFOCIpy_19bs5a_flsb_1795.ipynb
+              title: EcoFOCIpy_19bs5a_flsb_1795
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19bs5a/EcoFOCIpy_19bs5a_s37_1850.ipynb
+              title: EcoFOCIpy_19bs5a_s37_1850
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19bs5a/EcoFOCIpy_19bs5a_s37_1851.ipynb
+              title: EcoFOCIpy_19bs5a_s37_1851
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19bs5a/EcoFOCIpy_19bs5a_s37_1860.ipynb
+              title: EcoFOCIpy_19bs5a_s37_1860
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19bs5a/EcoFOCIpy_19bs5a_s39_0564.ipynb
+              title: EcoFOCIpy_19bs5a_s39_0564
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19bs5a/EcoFOCIpy_19bs5a_s39_0566.ipynb
+              title: EcoFOCIpy_19bs5a_s39_0566
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19bs5a/EcoFOCIpy_19bs5a_s39_0992.ipynb
+              title: EcoFOCIpy_19bs5a_s39_0992
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19bs5a/EcoFOCIpy_19bs5a_s39_1623.ipynb
+              title: EcoFOCIpy_19bs5a_s39_1623
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19bs5a/EcoFOCIpy_19bs5a_s39_1624.ipynb
+              title: EcoFOCIpy_19bs5a_s39_1624
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19bs5a/EcoFOCIpy_19bs5a_s39_3775.ipynb
+              title: EcoFOCIpy_19bs5a_s39_3775
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19bs5a/EcoFOCIpy_19bs5a_s39_5473.ipynb
+              title: EcoFOCIpy_19bs5a_s39_5473
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19bs5a/EcoFOCIpy_19bs5a_sbe16_1815.ipynb
+              title: EcoFOCIpy_19bs5a_sbe16_1815
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19bs5a/EcoFOCIpy_19bs5a_sbe16_1815_QC.ipynb
+              title: EcoFOCIpy_19bs5a_sbe16_1815_QC
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19bs5a/EcoFOCIpy_19bs5a_sbe16_4287.ipynb
+              title: EcoFOCIpy_19bs5a_sbe16_4287
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19bs5a/EcoFOCIpy_19bs5a_sbe16_7297.ipynb
+              title: EcoFOCIpy_19bs5a_sbe16_7297
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19bs5a/EcoFOCIpy_19bs5a_sbe16_7297_QC.ipynb
+              title: EcoFOCIpy_19bs5a_sbe16_7297_QC
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19bs5a/EcoFOCIpy_1d_filter_19bs5a.ipynb
+              title: EcoFOCIpy_1d_filter_19bs5a
+          - file: content/code_gallery/ecofoci_fielddata_history/2019/19bs8a/index.md
+            sections:
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19bs8a/19BS8A_Summary.ipynb
+              title: 19BS8A_Summary
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19bs8a/EcoFOCIpy_19bs8a_flsb_3073.ipynb
+              title: EcoFOCIpy_19bs8a_flsb_3073
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19bs8a/EcoFOCIpy_19bs8a_mt_4050.ipynb
+              title: EcoFOCIpy_19bs8a_mt_4050
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19bs8a/EcoFOCIpy_19bs8a_s37_2318.ipynb
+              title: EcoFOCIpy_19bs8a_s37_2318
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19bs8a/EcoFOCIpy_19bs8a_s37_2323.ipynb
+              title: EcoFOCIpy_19bs8a_s37_2323
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19bs8a/EcoFOCIpy_19bs8a_s39_0818.ipynb
+              title: EcoFOCIpy_19bs8a_s39_0818
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19bs8a/EcoFOCIpy_19bs8a_s39_0987.ipynb
+              title: EcoFOCIpy_19bs8a_s39_0987
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19bs8a/EcoFOCIpy_19bs8a_s39_1422.ipynb
+              title: EcoFOCIpy_19bs8a_s39_1422
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19bs8a/EcoFOCIpy_19bs8a_s39_1603.ipynb
+              title: EcoFOCIpy_19bs8a_s39_1603
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19bs8a/EcoFOCIpy_19bs8a_s39_1638.ipynb
+              title: EcoFOCIpy_19bs8a_s39_1638
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19bs8a/EcoFOCIpy_19bs8a_s39_3501.ipynb
+              title: EcoFOCIpy_19bs8a_s39_3501
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19bs8a/EcoFOCIpy_19bs8a_s39_5286.ipynb
+              title: EcoFOCIpy_19bs8a_s39_5286
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19bs8a/EcoFOCIpy_19bs8a_s39_5288.ipynb
+              title: EcoFOCIpy_19bs8a_s39_5288
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19bs8a/EcoFOCIpy_19bs8a_sbe16_4139.ipynb
+              title: EcoFOCIpy_19bs8a_sbe16_4139
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19bs8a/EcoFOCIpy_1d_filter_19bs8a.ipynb
+              title: EcoFOCIpy_1d_filter_19bs8a
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19bs8a/EcoFOCIpy_sbe16_UAF_19bs8a.ipynb
+              title: EcoFOCIpy_sbe16_UAF_19bs8a
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19bs8a/EcoFOCIpy_sbe16_UAF_19bs8a_QC.ipynb
+              title: EcoFOCIpy_sbe16_UAF_19bs8a_QC
+          - file: content/code_gallery/ecofoci_fielddata_history/2019/19bsm2a/index.md
+            sections:
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19bsm2a/19BSM2A_MTR_Summary.ipynb
+              title: 19BSM2A_MTR_Summary
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19bsm2a/EcoFOCIpy_19bsm2a_sg_1822.ipynb
+              title: EcoFOCIpy_19bsm2a_sg_1822
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19bsm2a/EcoFOCIpy_1d_filter_19bsm2a.ipynb
+              title: EcoFOCIpy_1d_filter_19bsm2a
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19bsm2a/EcoFOCIpy_sbe16_UAF.ipynb
+              title: EcoFOCIpy_sbe16_UAF
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19bsm2a/EcoFOCIpy_sbe16_UAF_QC.ipynb
+              title: EcoFOCIpy_sbe16_UAF_QC
+          - file: content/code_gallery/ecofoci_fielddata_history/2019/19bsp11a/index.md
+            sections:
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19bsp11a/EcoFOCIpy_19bsp11a_adcp.ipynb
+              title: EcoFOCIpy_19bsp11a_adcp
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19bsp11a/EcoFOCIpy_19bsp11a_s37_1865.ipynb
+              title: EcoFOCIpy_19bsp11a_s37_1865
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19bsp11a/EcoFOCIpy_2D_19bsp11a_QC.ipynb
+              title: EcoFOCIpy_2D_19bsp11a_QC
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19bsp11a/EcoFOCIpy_2D_filter_19bsp11a.ipynb
+              title: EcoFOCIpy_2D_filter_19bsp11a
+          - file: content/code_gallery/ecofoci_fielddata_history/2019/19bsp12a/index.md
+            sections:
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19bsp12a/EcoFOCIpy_19bsp12a_adcp.ipynb
+              title: EcoFOCIpy_19bsp12a_adcp
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19bsp12a/EcoFOCIpy_19bsp12a_s37_2322.ipynb
+              title: EcoFOCIpy_19bsp12a_s37_2322
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19bsp12a/EcoFOCIpy_2D_19bsp12a_QC.ipynb
+              title: EcoFOCIpy_2D_19bsp12a_QC
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19bsp12a/EcoFOCIpy_2D_filter_19bsp12a.ipynb
+              title: EcoFOCIpy_2D_filter_19bsp12a
+          - file: content/code_gallery/ecofoci_fielddata_history/2019/19bsp2a/index.md
+            sections:
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19bsp2a/EcoFOCIpy_19bsp2a_adcp.ipynb
+              title: EcoFOCIpy_19bsp2a_adcp
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19bsp2a/EcoFOCIpy_2D_19bsp2a_QC.ipynb
+              title: EcoFOCIpy_2D_19bsp2a_QC
+          - file: content/code_gallery/ecofoci_fielddata_history/2019/19bsp4a/index.md
+            sections:
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19bsp4a/EcoFOCIpy_19bsp4a_adcp.ipynb
+              title: EcoFOCIpy_19bsp4a_adcp
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19bsp4a/EcoFOCIpy_2D_19bsp4a_QC.ipynb
+              title: EcoFOCIpy_2D_19bsp4a_QC
+          - file: content/code_gallery/ecofoci_fielddata_history/2019/19bsp5a/index.md
+            sections:
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19bsp5a/EcoFOCIpy_19bsp5a_adcp.ipynb
+              title: EcoFOCIpy_19bsp5a_adcp
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19bsp5a/EcoFOCIpy_2D_19bsp5a_QC.ipynb
+              title: EcoFOCIpy_2D_19bsp5a_QC
+          - file: content/code_gallery/ecofoci_fielddata_history/2019/19bsp8a/index.md
+            sections:
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19bsp8a/EcoFOCIpy_19bsp8a_adcp.ipynb
+              title: EcoFOCIpy_19bsp8a_adcp
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19bsp8a/EcoFOCIpy_2D_19bsp8a_QC.ipynb
+              title: EcoFOCIpy_2D_19bsp8a_QC
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19bsp8a/EcoFOCIpy_2D_filter_19bsp8a.ipynb
+              title: EcoFOCIpy_2D_filter_19bsp8a
+          - file: content/code_gallery/ecofoci_fielddata_history/2019/19ckp12a/index.md
+            sections:
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19ckp12a/19ckp12a_Compare_ADCPandRCM.ipynb
+              title: 19ckp12a_Compare_ADCPandRCM
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19ckp12a/EcoFOCIpy_19ckp12a_adcp.ipynb
+              title: EcoFOCIpy_19ckp12a_adcp
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19ckp12a/EcoFOCIpy_19ckp12a_rcm.ipynb
+              title: EcoFOCIpy_19ckp12a_rcm
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19ckp12a/EcoFOCIpy_19ckp12a_rcm_QC.ipynb
+              title: EcoFOCIpy_19ckp12a_rcm_QC
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19ckp12a/EcoFOCIpy_19ckp12a_s37_1852.ipynb
+              title: EcoFOCIpy_19ckp12a_s37_1852
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19ckp12a/EcoFOCIpy_2D_19ckp12a_QC.ipynb
+              title: EcoFOCIpy_2D_19ckp12a_QC
+          - file: content/code_gallery/ecofoci_fielddata_history/2019/19ckp1a/index.md
+            sections:
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19ckp1a/19CKP1A_MTR_Summary.ipynb
+              title: 19CKP1A_MTR_Summary
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19ckp1a/19CKP1A_Summary.ipynb
+              title: 19CKP1A_Summary
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19ckp1a/EcoFOCIpy_19ckp1a_adcp.ipynb
+              title: EcoFOCIpy_19ckp1a_adcp
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19ckp1a/EcoFOCIpy_19ckp1a_bbfl2w_1418.ipynb
+              title: EcoFOCIpy_19ckp1a_bbfl2w_1418
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19ckp1a/EcoFOCIpy_19ckp1a_mt_4031.ipynb
+              title: EcoFOCIpy_19ckp1a_mt_4031
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19ckp1a/EcoFOCIpy_19ckp1a_mt_4032.ipynb
+              title: EcoFOCIpy_19ckp1a_mt_4032
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19ckp1a/EcoFOCIpy_19ckp1a_s37_2357.ipynb
+              title: EcoFOCIpy_19ckp1a_s37_2357
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19ckp1a/EcoFOCIpy_19ckp1a_sbe16_50217.ipynb
+              title: EcoFOCIpy_19ckp1a_sbe16_50217
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19ckp1a/EcoFOCIpy_19ckp1a_sg_1981.ipynb
+              title: EcoFOCIpy_19ckp1a_sg_1981
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19ckp1a/EcoFOCIpy_1d_filter_19ckp1a.ipynb
+              title: EcoFOCIpy_1d_filter_19ckp1a
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19ckp1a/EcoFOCIpy_2D_19ckp1a_QC.ipynb
+              title: EcoFOCIpy_2D_19ckp1a_QC
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19ckp1a/EcoFOCIpy_2D_filter_19ckp1a.ipynb
+              title: EcoFOCIpy_2D_filter_19ckp1a
+          - file: content/code_gallery/ecofoci_fielddata_history/2019/19ckp2a/index.md
+            sections:
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19ckp2a/19ckp2a_Compare_ADCPandRCM.ipynb
+              title: 19ckp2a_Compare_ADCPandRCM
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19ckp2a/EcoFOCIpy_19ckp2a_BBFL2WB_1755.ipynb
+              title: EcoFOCIpy_19ckp2a_BBFL2WB_1755
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19ckp2a/EcoFOCIpy_19ckp2a_adcp.ipynb
+              title: EcoFOCIpy_19ckp2a_adcp
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19ckp2a/EcoFOCIpy_19ckp2a_rcm.ipynb
+              title: EcoFOCIpy_19ckp2a_rcm
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19ckp2a/EcoFOCIpy_19ckp2a_s37_3979.ipynb
+              title: EcoFOCIpy_19ckp2a_s37_3979
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19ckp2a/EcoFOCIpy_19ckp2a_sbe16_6629.ipynb
+              title: EcoFOCIpy_19ckp2a_sbe16_6629
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19ckp2a/EcoFOCIpy_19ckp2a_sbe16_6629_QC.ipynb
+              title: EcoFOCIpy_19ckp2a_sbe16_6629_QC
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19ckp2a/EcoFOCIpy_19ckp2a_sbe37_3979_QC.ipynb
+              title: EcoFOCIpy_19ckp2a_sbe37_3979_QC
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19ckp2a/EcoFOCIpy_1d_filter_19ckp2a.ipynb
+              title: EcoFOCIpy_1d_filter_19ckp2a
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19ckp2a/EcoFOCIpy_2D_19ckp2a_QC.ipynb
+              title: EcoFOCIpy_2D_19ckp2a_QC
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19ckp2a/EcoFOCIpy_2D_filter_19ckp2a.ipynb
+              title: EcoFOCIpy_2D_filter_19ckp2a
+          - file: content/code_gallery/ecofoci_fielddata_history/2019/19ckp3a/index.md
+            sections:
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19ckp3a/EcoFOCIpy_19ckp3a_adcp.ipynb
+              title: EcoFOCIpy_19ckp3a_adcp
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19ckp3a/EcoFOCIpy_19ckp3a_flntus_2164.ipynb
+              title: EcoFOCIpy_19ckp3a_flntus_2164
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19ckp3a/EcoFOCIpy_19ckp3a_s37_3767.ipynb
+              title: EcoFOCIpy_19ckp3a_s37_3767
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19ckp3a/EcoFOCIpy_19ckp3a_sbe16_7020.ipynb
+              title: EcoFOCIpy_19ckp3a_sbe16_7020
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19ckp3a/EcoFOCIpy_19ckp3a_sg_1733.ipynb
+              title: EcoFOCIpy_19ckp3a_sg_1733
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19ckp3a/EcoFOCIpy_2D_19ckp3a_QC.ipynb
+              title: EcoFOCIpy_2D_19ckp3a_QC
+          - file: content/code_gallery/ecofoci_fielddata_history/2019/19ckp4a/index.md
+            sections:
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19ckp4a/EcoFOCIpy_19ckp4a_adcp.ipynb
+              title: EcoFOCIpy_19ckp4a_adcp
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19ckp4a/EcoFOCIpy_2D_19ckp4a_QC.ipynb
+              title: EcoFOCIpy_2D_19ckp4a_QC
+          - file: content/code_gallery/ecofoci_fielddata_history/2019/19ckp5a/index.md
+            sections:
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19ckp5a/EcoFOCIpy_19ckp5a_adcp.ipynb
+              title: EcoFOCIpy_19ckp5a_adcp
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19ckp5a/EcoFOCIpy_19ckp5a_s37_3768.ipynb
+              title: EcoFOCIpy_19ckp5a_s37_3768
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19ckp5a/EcoFOCIpy_19ckp5a_sbe16_4426.ipynb
+              title: EcoFOCIpy_19ckp5a_sbe16_4426
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/19ckp5a/EcoFOCIpy_2D_19ckp5a_QC.ipynb
+              title: EcoFOCIpy_2D_19ckp5a_QC
+          - file: content/code_gallery/ecofoci_fielddata_history/2019/fisheries/index.md
+            sections:
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/fisheries/19BSP12A_Summary.ipynb
+              title: 19BSP12A_Summary
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/fisheries/EcoFOCIpy_19bsp10a_s37_2355.ipynb
+              title: EcoFOCIpy_19bsp10a_s37_2355
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/fisheries/EcoFOCIpy_19bsp11a_adcp.ipynb
+              title: EcoFOCIpy_19bsp11a_adcp
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/fisheries/EcoFOCIpy_19bsp11a_s37_1865.ipynb
+              title: EcoFOCIpy_19bsp11a_s37_1865
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/fisheries/EcoFOCIpy_19bsp12a_adcp.ipynb
+              title: EcoFOCIpy_19bsp12a_adcp
+            - file: content/code_gallery/ecofoci_fielddata_history/2019/fisheries/EcoFOCIpy_19bsp12a_s37_2332.ipynb
+              title: EcoFOCIpy_19bsp12a_s37_2332
+              
   - caption: Other Projects
     chapters:
       - file: content/code_gallery/MetaData_Rediscovery.md
