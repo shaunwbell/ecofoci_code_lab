@@ -2,3 +2,6 @@
 *.swp
 .ipynb_checkpoints/
 index.html
+*.nc
+*.csv
+jupyterbook/content/code_gallery/ecofoci_field*/*/*/*.png
