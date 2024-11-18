@@ -3,7 +3,7 @@
 The [EcoFOCI CodeLab](https://noaa-pmel.github.io/ecofoci_code_lab) is a collection of tutorials and examples of how to access and
 utilize the many EcoFOCI Data sets and resources available. This site is geared towards scientists and collaborators with internal access to EcoFOCI resources. Most notebook examples are written in Python.
 
-See the rendered version at https://noaa-pmel.github.io/ecofoci_code_lab/ecofoci_code_lab
+See the rendered version at https://noaa-pmel.github.io/ecofoci_code_lab
 
 To suggest a notebook or ask questions please open an issue at: https://noaa-pmel.github.io/ecofoci_code_lab/issues
 
