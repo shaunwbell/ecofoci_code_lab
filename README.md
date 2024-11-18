@@ -38,7 +38,7 @@ Install jupyter-book:
 conda install jupyter-book
 ```
 
-Clone the [ecofoci_code_lab](https://github.com/shaunwbell/ecofoci_code_lab) repository.
+Clone the [ecofoci_code_lab](https://noaa-pmel.github.io/ecofoci_code_lab) repository.
 
 ```
 git clone https://github.com/shaunwbell/ecofoci_code_lab.git
