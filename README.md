@@ -1,11 +1,11 @@
 # EcoFOCI CodeLab
 
-The [EcoFOCI CodeLab](https://shaunwbell.github.io/ecofoci_code_lab) is a collection of tutorials and examples of how to access and
+The [EcoFOCI CodeLab](https://noaa-pmel.github.io/ecofoci_code_lab) is a collection of tutorials and examples of how to access and
 utilize the many EcoFOCI Data sets and resources available. This site is geared towards scientists and collaborators with internal access to EcoFOCI resources. Most notebook examples are written in Python.
 
-See the rendered version at https://shaunwbell.github.io/ecofoci_code_lab
+See the rendered version at https://noaa-pmel.github.io/ecofoci_code_lab
 
-To suggest a notebook or ask questions please open an issue at: https://github.com/shaunwbell/ecofoci_code_lab/issues
+To suggest a notebook or ask questions please open an issue at: https://noaa-pmel.github.io/ecofoci_code_lab/issues
 
 This is a fork of the IOOS CodeLab (thanks to that project for the initial codebase) and the IOOS project can be obtained at: https://github.com/ioos/ioos_code_lab - the citation link included in this repo still refers to the original project.
 
@@ -38,7 +38,7 @@ Install jupyter-book:
 conda install jupyter-book
 ```
 
-Clone the [ecofoci_code_lab](https://github.com/shaunwbell/ecofoci_code_lab) repository.
+Clone the [ecofoci_code_lab](https://noaa-pmel.github.io/ecofoci_code_lab) repository.
 
 ```
 git clone https://github.com/shaunwbell/ecofoci_code_lab.git
