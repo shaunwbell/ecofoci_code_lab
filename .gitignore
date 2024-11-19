@@ -5,3 +5,4 @@ index.html
 *.nc
 *.csv
 jupyterbook/content/code_gallery/ecofoci_field*/*/*/*.png
+jupyterbook/content/code_gallery/ecofoci_fielddata_history/.DS_Store
